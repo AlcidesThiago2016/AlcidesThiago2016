@@ -1,6 +1,6 @@
 ### Olá! Eu sou Alcides Thiago 👋
 
-- 🔭 Hoje trabalho com Administração de Redes, estou iniciando minha carreira em programação, sou amante da linguaguem Java, fiz alguns cursos de Python e estou estudando Cobol.
+- 🔭 Hoje trabalho com Administração de Redes, estou iniciando minha carreira em programação, sou amante da linguaguem Java, fiz alguns cursos de Python e recentemente conclui o curso de Cobol.
 - 🌱 Atualmente fazendo um Bootcamp da Spread Java Developer na Digital Innovation One.
 - 📫 Contate-me no email : alcides_thiago@hotmail.com
 - 😄 Pronouns: ele/dele
