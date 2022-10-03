@@ -1,8 +1,17 @@
 ### Olá! Eu sou Alcides Thiago 👋
 
 - 🔭 Atualmente trabalho na área de infra em Administração de Redes, estou iniciando minha carreira em programação, sou amante da linguaguem Java e venho estudando a uns 2 anos, fiz alguns cursos de Python e recentemente conclui o curso de Cobol.
+
+- 👨‍💻 CERTIFICAÇÕES CONCLUIDAS:
+
 - 🌱 Bootcamp da Spread Java Developer na Digital Innovation One Concluido em 2022.
 - 🌱 Santander Bootcamp Fullstack Developer na Digital Innovation Concluido em 2022.
+
+- 👨‍💻 CERTIFICAÇÕES EM ANDAMENTO:
+
+- 🌱 Curso Desenvolvedor Moderno - Escola DevSuperior(Nélio Alves).
+- 🌱 Curso Avançado de Inglês - Cilc(Presencial).
+
 - 📫 Contate-me no email : alcides_thiago@hotmail.com
 - 😄 Pronouns: ele/dele
  <div>
