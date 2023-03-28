@@ -11,6 +11,7 @@
 
 - 🌱 Curso Desenvolvedor Moderno - Escola DevSuperior(Nélio Alves).
 - 🌱 Curso Avançado de Inglês - Cilc(Presencial).
+- 🌱 Bootcamp Banco PAN Java Developer - DIO(Digital Innovation One).
 
 - 📫 Contate-me no email : alcides_thiago@hotmail.com
 - 😄 Pronouns: ele/dele
