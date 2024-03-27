@@ -7,10 +7,10 @@
 - 🌱 Bootcamp da Spread Java Developer na Digital Innovation One Concluido em 2022.
 - 🌱 Santander Bootcamp Fullstack Developer na Digital Innovation Concluido em 2022.
 - 🌱 Bootcamp Banco PAN Java Developer na Digital Innovation Concluido em 2023.
+- 🌱 Curso Desenvolvedor Moderno - Escola DevSuperior(Nélio Alves) Concluido em 2024.
 
 - 👨‍💻 CERTIFICAÇÕES EM ANDAMENTO:
 
-- 🌱 Curso Desenvolvedor Moderno - Escola DevSuperior(Nélio Alves).
 - 🌱 Curso Avançado de Inglês - Cilc(Presencial).
 
 - 📫 Contate-me no email : alcides_thiago@hotmail.com
