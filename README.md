@@ -12,6 +12,7 @@
 - 👨‍💻 CERTIFICAÇÕES EM ANDAMENTO:
 
 - 🌱 Curso Avançado de Inglês - Cilc(Presencial).
+- 🌱 Santande 2024 - Backend com Java.
 
 - 📫 Contate-me no email : alcides_thiago@hotmail.com
 - 😄 Pronouns: ele/dele
