@@ -8,11 +8,11 @@
 - 🌱 Santander Bootcamp Fullstack Developer na Digital Innovation Concluido em 2022.
 - 🌱 Bootcamp Banco PAN Java Developer na Digital Innovation Concluido em 2023.
 - 🌱 Curso Desenvolvedor Moderno - Escola DevSuperior(Nélio Alves) Concluido em 2024.
+- 🌱 Bootcamp Santander 2024 - Backend com Java Concluido em 2024.
 
 - 👨‍💻 CERTIFICAÇÕES EM ANDAMENTO:
 
 - 🌱 Curso Avançado de Inglês - Cilc(Presencial).
-- 🌱 Santande 2024 - Backend com Java.
 
 - 📫 Contate-me no email : alcides_thiago@hotmail.com
 - 😄 Pronouns: ele/dele
