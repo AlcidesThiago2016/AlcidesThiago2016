@@ -1,47 +1,46 @@
-### Olá! Eu sou Alcides Thiago 👋
+# Olá, eu sou Alcides Thiago 👋
 
-- 🔭 Atualmente trabalho na área de infra em Administração de Redes, estou iniciando minha carreira em programação, sou amante da linguaguem Java e venho estudando a uns 8 anos, fiz alguns cursos de Python e Cobol.
+Sou Desenvolvedor Full Stack Jr, com experiência em infraestrutura, redes e suporte técnico, atualmente em transição e evolução na área de desenvolvimento de software.
 
-- 👨‍💻 CERTIFICAÇÕES CONCLUIDAS:
+Tenho estudado e desenvolvido projetos com foco em aplicações web, APIs REST, backend Java/Spring Boot e frontend com React, TypeScript, HTML, CSS e JavaScript.
 
-- 🌱 Bootcamp da Spread Java Developer na Digital Innovation One Concluido em 2022.
-- 🌱 Santander Bootcamp Fullstack Developer na Digital Innovation Concluido em 2022.
-- 🌱 Bootcamp Banco PAN Java Developer na Digital Innovation Concluido em 2023.
-- 🌱 Curso Desenvolvedor Moderno - Escola DevSuperior(Nélio Alves) Concluido em 2024.
-- 🌱 Bootcamp Santander 2024 - Backend com Java Concluido em 2024.
+## 🚀 Tecnologias que venho utilizando
 
-- 👨‍💻 CERTIFICAÇÕES EM ANDAMENTO:
+- Java
+- Spring Boot
+- TypeScript
+- React
+- JavaScript
+- HTML e CSS
+- Python
+- Git e GitHub
+- Linux/Ubuntu
+- Redes e infraestrutura
 
-- 🌱 Curso Avançado de Inglês - Cilc(Presencial).
+## 💼 Experiência
 
-- 📫 Contate-me no email : alcides_thiago@hotmail.com
-- 😄 Pronouns: ele/dele
- <div>
-  <a href="https://github.com/AlcidesThiago2016">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alcidesthiago2016&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alcidesthiago2016&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  
-  ##
-  
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Alcides-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Alcides-Spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
-  <img align="center" alt="Alcides-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Alcides-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Alcides-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Alcides-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Alcides-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">   
-  <img align="center" alt="Alcides-Angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">   
-  <img align="center" alt="Alcides-Ubuntu" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg">
-</div>
-  
- ##
-  
-<div> 
-  <a href="https://instagram.com/wilismarthiago" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:alcides_thiago@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/alcidesthiago-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>
+Atuo na área de infraestrutura e administração de redes, o que me trouxe uma base sólida em suporte, ambientes corporativos, resolução de problemas e visão prática de sistemas em produção.
+
+Hoje busco unir essa experiência com desenvolvimento de software para construir soluções web mais completas, organizadas e funcionais.
+
+## 📌 Projetos em destaque
+
+- Sistemas web com Java e Spring Boot
+- Aplicações frontend com React e TypeScript
+- Projetos de estudo full stack
+- APIs REST
+- Sistemas de cadastro, controle e gestão
+
+## 🎓 Formação e estudos
+
+- Bootcamp Spread Java Developer - DIO
+- Santander Bootcamp Fullstack Developer - DIO
+- Bootcamp Banco PAN Java Developer - DIO
+- Desenvolvedor Moderno - DevSuperior
+- Santander 2024 - Backend com Java
+- Inglês avançado em andamento
+
+## 📫 Contato
+
+- Email: alcides_thiago@hotmail.com
+- LinkedIn: (https://www.linkedin.com/in/alcidesthiago-dev/)
